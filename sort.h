@@ -1,9 +1,7 @@
 /**
  * @file sort.h
  * @author Angelina Vozza
- * @section 1
  * @date 2024-02-12
- * @assingnment 3
  */
 
 #include <stdio.h>
