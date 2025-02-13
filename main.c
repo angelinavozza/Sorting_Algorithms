@@ -1,9 +1,7 @@
 /**
  * @file main.c
  * @author Angelina Vozza
- * @section 1
  * @date 2024-02-12
- * @assingnment 3
  * @note this program only sorts the 1000words.txt file. The file being sorted can be changed in the scan_array_and_store function
  *       in sort.c.
  */
